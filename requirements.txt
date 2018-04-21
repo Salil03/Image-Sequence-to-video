@@ -1,0 +1,2 @@
+easygui==0.98.1
+opencv_python==3.4.0.12
