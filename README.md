@@ -22,4 +22,3 @@ python img2vid.py
 
 The program has a gui to make it more user friendly.
 It can also add audio.
-There are windows binaries avaiable https://github.com/Salil03/Image-Sequence-to-video/releases
