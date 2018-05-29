@@ -3,7 +3,7 @@ A very useful tool to convert image sequence to video with audio. GUI is include
 
 ## Install requirements
 
-Nonsense Maths Engine dependencies are:
+Dependencies are:
 * python 3
 * easygui
 * open-cv
